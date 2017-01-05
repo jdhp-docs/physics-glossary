@@ -5,9 +5,9 @@
 
 .. include:: meta.rst
 
-====
-TODO_DOCUMENT_TITLE
-====
+=======================================================
+Glossaire d'astrophysique et de physique des particules
+=======================================================
 
 :Auteur: |AUTHORS|
 :Contact: |CONTACT|
